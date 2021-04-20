@@ -31,7 +31,7 @@ Pillow==7.1.1
 pluggy==0.8.0
 plumber==1.5
 pre-commit==2.3.0
-py==1.7.0
+py==1.10.0
 pycatia==0.2.0
 pycodestyle==2.5.0
 pyjokes==0.6.0
