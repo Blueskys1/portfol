@@ -27,7 +27,7 @@ npm==0.1.1
 odict==1.7.0
 optional-django==0.1.0
 packaging==20.3
-Pillow==7.1.1
+Pillow==8.2.0
 pluggy==0.8.0
 plumber==1.5
 pre-commit==2.3.0
