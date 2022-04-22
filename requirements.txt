@@ -37,7 +37,7 @@ pycodestyle==2.5.0
 pyjokes==0.6.0
 pylint==2.4.4
 pyparsing==2.4.7
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 python-dotenv==0.13.0
 pywin32==227
 PyYAML==5.3.1
